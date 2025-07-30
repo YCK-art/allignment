@@ -1,0 +1,27 @@
+{
+  "name": "allign-landing-page",
+  "version": "1.0.0",
+  "description": "AI Team Alignment Landing Page",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -p 3000 -o",
+    "dev": "http-server -p 3000 -o -c-1",
+    "build": "echo 'No build process needed for static site'"
+  },
+  "keywords": [
+    "landing-page",
+    "ai",
+    "team-alignment",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "dependencies": {
+    "react-icons": "^5.5.0"
+  }
+}
