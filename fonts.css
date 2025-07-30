@@ -1,7 +1,7 @@
 /* Product Sans Font Face Definitions */
 @font-face {
     font-family: 'Product Sans';
-    src: url('./fonts/ProductSans-Regular.ttf') format('truetype');
+    src: url('fonts/ProductSans-Regular.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
     font-display: block;
